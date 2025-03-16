@@ -4,12 +4,12 @@
 This is a **Lunar Lander-style** game where you control Santa as he descends from the sky. Your goal is to **safely land on a chimney** while avoiding dangerous flames (🔥). The game challenges your ability to control acceleration, fuel consumption, and precise landings!  
 
 ![game_screenshot](lunar_lander/assets/game_screenshot.png)
+
 ---
 
 ## **How to Play**  
-- **Left Arrow (⬅️)**: Move Santa to the left  
-- **Right Arrow (➡️)**: Move Santa to the right  
-- **Avoid flames**: If Santa touches a flame, the mission fails!  
+- **Left/Right Arrow (⬅️/➡️)**: Use fuel to adjust Santa’s acceleration left or right.  
+- **Avoid flames**: Flame moves up and down! If Santa touches a flame, the mission fails.  
 - **Land on the chimney**: Successfully landing wins the game 🎉  
 - **Watch your fuel**: Your remaining fuel is displayed as a **battery icon** in the top-right corner. If you run out, you won’t be able to move!  
 
