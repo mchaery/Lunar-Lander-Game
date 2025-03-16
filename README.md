@@ -2,6 +2,7 @@
 
 ## **Overview**  
 This is a **Lunar Lander-style** game where you control Santa as he descends from the sky. Your goal is to **safely land on a chimney** while avoiding dangerous flames (🔥). The game challenges your ability to control acceleration, fuel consumption, and precise landings!  
+
 ![game_screenshot](lunar_lander/assets/game_screenshot.png)
 ---
 
